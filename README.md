@@ -1,1 +1,3 @@
 # RECIPES_LANDING_PAGE
+# EXAMPLE RECIPES
+![Screenshot_16-3-2024_233719_](https://github.com/anushagb/RECIPES_LANDING_PAGE/assets/160095301/2b7d82fa-8ff4-4798-a861-b472cb5ca95d)
